@@ -1,2 +1,2 @@
-# recipe-app-api
-Recipe API project
+# DRF starter kit
+DRF starter kit
